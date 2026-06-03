@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◢◤ ARJIA LABS ◥◣
+<img src="https://raw.githubusercontent.com/Arjia-Labs/.github/main/profile/banner.jpg" alt="Arjia Labs — Programs for the Grid" width="100%" />
 
 ### Programs for the Grid.
 
