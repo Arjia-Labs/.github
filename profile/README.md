@@ -30,7 +30,6 @@ Autonomous agents, DeFi, and AI trading come online as the Grid grows. The tools
 | ◉ | **[clu](https://github.com/arjia-labs/clu)** — [docs](https://arjia-labs.github.io/clu/) | *Codified Likeness Utility.* A SQLite issue tracker for coordinating fleets of AI coding agents — atomic claim, dependency graphs, workflows & checkpoints, audit log. |
 | ⬡ | **[yori](https://github.com/arjia-labs/yori)** — [docs](https://arjia-labs.github.io/yori/) | A library for your AI prompts, agents, commands, and skills — render and compose them into ready-to-pipe text. |
 | ▦ | **[dumont](https://github.com/arjia-labs/dumont)** — [docs](https://arjia-labs.github.io/dumont/) | One filesystem over local disk, object stores, Google Drive, archives, and HTTP — driven entirely from the command line. |
-| ✦ | **[awesome-defi-skills](https://github.com/arjia-labs/awesome-defi-skills)** | A curated list of AI skills, MCP servers, and agent toolkits for DeFi protocols and blockchain platforms. |
 
 ## ⟐ On the Grid
 
