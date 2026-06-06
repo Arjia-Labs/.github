@@ -21,7 +21,17 @@ other and that any agent can drive.
 
 Autonomous agents, DeFi, and AI trading come online as the Grid grows. The tools come first.
 
-> Named from *Tron*: every program here earns a Grid name.
+## ⟢ Why "Arjia"?
+
+In *TRON: Evolution*, **Arjia City** was the spiritual center of the Grid — a city built
+directly over the **Codestream Nexus**, where every stream of code in the system converges.
+
+> *"Arjia City. Isn't it spectacular? Built on top of the nexus of every stream of code in
+> the entire system."* — Quorra
+
+The name fits the work: everything we make sits close to the code — small programs at the
+nexus, where the streams meet. Arjia fell in the Purge and was later recoded from secrecy,
+coming back stronger than before. We took the name in that spirit. *(Zuse pronounced it "Arza.")*
 
 ## ⟁ Programs
 
@@ -37,7 +47,7 @@ Autonomous agents, DeFi, and AI trading come online as the Grid grows. The tools
 
 | | User | Writes | Grid handle |
 |:--:|---|---|:--:|
-| ◈ | **[Roy van Kaathoven](https://github.com/rovak)** | clu · yori · dumont | `@rovak` |
+| ◈ | **[rovak](https://github.com/rovak)** | clu · yori · dumont | `@rovak` |
 
 ## ⟐ On the Grid
 
