@@ -31,6 +31,14 @@ Autonomous agents, DeFi, and AI trading come online as the Grid grows. The tools
 | ⬡ | **[yori](https://github.com/arjia-labs/yori)** | [docs](https://arjia-labs.github.io/yori/) | A library for your AI prompts, agents, commands, and skills — render and compose them into ready-to-pipe text. |
 | ▦ | **[dumont](https://github.com/arjia-labs/dumont)** | [docs](https://arjia-labs.github.io/dumont/) | One filesystem over local disk, object stores, Google Drive, archives, and HTTP — driven entirely from the command line. |
 
+## ⟡ Users
+
+> Behind every program is a User. These are ours.
+
+| | User | Writes | Grid handle |
+|:--:|---|---|:--:|
+| ◈ | **[Roy van Kaathoven](https://github.com/rovak)** | clu · yori · dumont | `@rovak` |
+
 ## ⟐ On the Grid
 
 - **Composable** — Unix-shaped programs with clean `--json`. Pipe them, script them, point any agent at them.
